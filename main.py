@@ -16,7 +16,7 @@ def daterange(start_date, end_date):
         yield start_date + timedelta(n)
 
 start_date = date(year, 1, 1)
-end_date = date(year, 12, 31)
+end_date = date(year + 1, 1, 1)
 
 msg = f'<?xml version="1.0"?><opml version="2.0"><body><outline text="{year}">'
 
