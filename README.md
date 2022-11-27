@@ -6,7 +6,7 @@ You can use this code to generate a WorkFlowy calendar for one year, that will c
 The used modules are standard libraries of Python. You can change the variables under the Settings comment.
 
 ## Preview
-![image](https://user-images.githubusercontent.com/29152658/204143885-89a0c417-7244-49c4-86f6-3a4f4398b2da.png)
+![image](https://user-images.githubusercontent.com/29152658/204144274-8023c34a-fab7-44ad-adc2-d0e20f5dae92.png)
 
 ## Code
 ```python
