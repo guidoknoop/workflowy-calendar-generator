@@ -1,6 +1,10 @@
 # workflowy-calendar-generator
 Generate a custom calendar for your WorkFlowy setup
 
+You can use this code to generate a WorkFlowy calendar for one year, that will copy to your clipboard. You can paste it at any location in WorkFlowy with CTRL + V.
+
+The used modules are standard libraries of Python. You only have to change the LOCALE variable and the year.
+
 ```python
 import calendar
 import clipboard
