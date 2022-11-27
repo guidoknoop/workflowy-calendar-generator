@@ -5,6 +5,10 @@ You can use this code to generate a WorkFlowy calendar for one year, that will c
 
 The used modules are standard libraries of Python. You only have to change the LOCALE variable, the year and the display_date.
 
+## Preview
+![image](https://user-images.githubusercontent.com/29152658/204143885-89a0c417-7244-49c4-86f6-3a4f4398b2da.png)
+
+## Code
 ```python
 import calendar
 import clipboard
