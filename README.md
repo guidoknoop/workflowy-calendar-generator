@@ -19,7 +19,7 @@ import locale
 LOCALE = 'nl_NL'            # Which locale would you like to use? Choose from https://www.localeplanet.com/icu/
 year = 2023                 # For which year would you like to generate a calendar?
 display_date = '%d-%m-%Y'   # How would you like to display the date? Choose from https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
-display_week = True         # Set to True if you want to see the number of the week as a tag, False if not
+display_week = True         # Set to True if you want to see the number of the week as a tag, False if not.
 
 # Don't change anything after this line
 locale.setlocale(locale.LC_ALL, LOCALE)
