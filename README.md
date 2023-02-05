@@ -7,7 +7,7 @@ You can use this code to generate a WorkFlowy calendar for one year, that will c
 ![image](https://user-images.githubusercontent.com/29152658/204144274-8023c34a-fab7-44ad-adc2-d0e20f5dae92.png)
 
 ## Installation
-Download the main.py file. Install clipboard using ```pip install clipboard```. Run the script with Python using this command ```python "location\to\file\main.py"```. The calendar is now copied to yur clipboard. If you'd like you can change the variables under the Settings comment.
+Download the main.py file. Install clipboard using ```pip install clipboard```. Run the script with Python using this command ```python "location\to\file\main.py"```. The calendar is now copied to your clipboard. If you'd like you can change the variables under the Settings comment.
 
 ## Code
 ```python
